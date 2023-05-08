@@ -337,7 +337,7 @@ if menu == 'MySQL Operations':
                 try:
                     conn = msql.connect(host='localhost',
                                         database='biz_card', user='root',
-                                        password='sathesh123')
+                                        password='yourpassword')
                     if conn.is_connected():
                         cursor = conn.cursor()
 
@@ -368,7 +368,7 @@ if menu == 'MySQL Operations':
                 try:
                     conn = msql.connect(host='localhost',
                                         database='biz_card', user='root',
-                                        password='sathesh123')
+                                        password='yourpassword')
                     if conn.is_connected():
                         cursor = conn.cursor()
 
