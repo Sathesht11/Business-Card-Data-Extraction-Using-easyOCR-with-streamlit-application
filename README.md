@@ -1,0 +1,1 @@
+# Business-Card-Data-Extraction-Using-easyOCR-with-streamlit-application
