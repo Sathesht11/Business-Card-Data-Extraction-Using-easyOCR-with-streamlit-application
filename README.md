@@ -23,25 +23,20 @@ This repository demonstrates the integration of EasyOCR and Streamlit to automat
 1. Clone this repository:
 ```
 git clone https://github.com/Sathesht11/Business-Card-Data-Extraction-Using-easyOCR-with-streamlit-application.git
-
 ```
 2. Navigate to the project directory:
 ```
 cd business-card-extraction
-
 ```
 3. Install the required dependencies:
 ```
 pip install -r requirements.txt
-
 ```
 ## Usage
 
 1. Run the Streamlit web application:
-
 ```
 streamlit run app.py
-
 ```
 2. Upload a business card image through the web interface.
 
